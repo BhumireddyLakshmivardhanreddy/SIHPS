@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27.05.2024
+## Register Number:212223240016
+## Name:BHUMIREDDY LAKSHMI VARDHAN REDDY
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
